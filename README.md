@@ -9,6 +9,8 @@ https://flask.palletsprojects.com/en/1.1.x/
 
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
+- [Flask Login](https://flask-login.readthedocs.io/en/latest/)
+
 
 ```
 $ docker build --tag mypython3flask:1.0 .
